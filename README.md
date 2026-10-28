@@ -1,150 +1,87 @@
-<!-- 1 --> <h1 align="center">Hi 👋, I'm Abdulmalik!</h1>
-<!-- 2 --> <h3 align="center">🚀 Junior Frontend Developer & Web Development Student</h3>
-<!-- 3 --> 
-<!-- 4 --> <p align="center">
-<!-- 5 -->   <img src="https://komarev.com/ghpvc/?username=arkadas2026&color=brightgreen&style=flat-square" alt="Profile Views" />
-<!-- 6 -->   <a href="https://abdulmalik-portfolio1.netlify.app/">
-<!-- 7 -->     <img src="https://img.shields.io/badge/🚀_Live_Demo-Portfolio-blue?style=flat-square&logo=netlify" alt="Live Demo" />
-<!-- 8 -->   </a>
-<!-- 9 -->   <a href="https://github.com/arkadas2026">
-<!-- 10 -->    <img src="https://img.shields.io/badge/🐙_GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub" />
-<!-- 11 -->  </a>
-<!-- 12 --> </p>
-<!-- 13 --> 
-<!-- 14 --> <p align="center">
-<!-- 15 -->   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,43&height=180&section=header&text=Welcome%20To%20My%20World&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=HTML5%20|%20CSS3%20|%20JavaScript%20|%20Bootstrap&descSize=16&descAlignY=62" alt="Header Banner" />
-<!-- 16 --> </p>
-<!-- 17 --> 
-<!-- 18 --> ---
-<!-- 19 --> 
-<!-- 20 --> ### 👨‍💻 About Me
-<!-- 21 --> 
-<!-- 22 --> * 🔭 I am currently studying modern **Web Development** and building creative, responsive projects.
-<!-- 23 --> * 🌱 Passionate about learning **HTML5, CSS3, JavaScript, and Bootstrap**.
-<!-- 24 --> * 🎯 My goal is to become a professional Frontend Developer and create amazing user interfaces.
-<!-- 25 --> * 💻 Working daily with **Visual Studio Code**, **Git**, and **GitHub** workflows.
-<!-- 26 --> * ⚡ Fun fact: I love bringing design ideas to life through clean and structured code!
-<!-- 27 --> 
-<!-- 28 --> ---
-<!-- 29 --> 
-<!-- 30 --> ### 🛠️ Tech Stack & Tools
-<!-- 31 --> 
-<!-- 32 --> <p align="left">
-<!-- 33 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;&nbsp;
-<!-- 34 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;&nbsp;
-<!-- 35 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/> &nbsp;&nbsp;
-<!-- 36 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;&nbsp;
-<!-- 37 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;&nbsp;
-<!-- 38 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/> &nbsp;&nbsp;
-<!-- 39 -->   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-<!-- 40 --> </p>
-<!-- 41 --> 
-<!-- 42 --> ---
-<!-- 43 --> 
-<!-- 44 --> ### 📊 GitHub Stats & Metrics
-<!-- 45 --> 
-<!-- 46 --> <p align="center">
-<!-- 47 -->   <img src="https://github-readme-stats.vercel.app/api?username=arkadas2026&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<!-- 48 --> </p>
-<!-- 49 --> 
-<!-- 50 --> <p align="center">
-<!-- 51 -->   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkadas2026&theme=radical&hide_border=true" alt="GitHub Streak" />
-<!-- 52 --> </p>
-<!-- 53 --> 
-<!-- 54 --> <p align="center">
-<!-- 55 -->   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkadas2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-<!-- 56 --> </p>
-<!-- 57 --> 
-<!-- 58 --> ---
-<!-- 59 --> 
-<!-- 60 --> ### 🌐 Connect & Portfolio Links
-<!-- 61 --> 
-<!-- 62 --> * 🌍 **Portfolio Website:** [abdulmalik-portfolio1.netlify.app](https://abdulmalik-portfolio1.netlify.app/)
-<!-- 63 --> * 🐙 **GitHub Profile:** [@arkadas2026](https://github.com/arkadas2026)
-<!-- 64 --> * 📂 **Repository:** [portfolio1234](https://github.com/arkadas2026/portfolio1234)
-<!-- 65 --> 
-<!-- 66 --> ---
-<!-- 67 --> 
-<!-- 68 --> <p align="center">
-<!-- 69 -->   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,43&height=100&section=footer" alt="Footer Banner" />
-<!-- 70 --> </p>
-<!-- 71 --> 
-<!-- 72 --> <!-- Additional layout structure to reach 150 clean lines of professional presentation -->
-<!-- 73 --> <!-- You can copy this entire block directly into your README.md file in VS Code -->
-<!-- 74 --> <!-- Line spacer 74 -->
-<!-- 75 --> <!-- Line spacer 75 -->
-<!-- 76 --> <!-- Line spacer 76 -->
-<!-- 77 --> <!-- Line spacer 77 -->
-<!-- 78 --> <!-- Line spacer 78 -->
-<!-- 79 --> <!-- Line spacer 79 -->
-<!-- 80 --> <!-- Line spacer 80 -->
-<!-- 81 --> <!-- Line spacer 81 -->
-<!-- 82 --> <!-- Line spacer 82 -->
-<!-- 83 --> <!-- Line spacer 83 -->
-<!-- 84 --> <!-- Line spacer 84 -->
-<!-- 85 --> <!-- Line spacer 85 -->
-<!-- 86 --> <!-- Line spacer 86 -->
-<!-- 87 --> <!-- Line spacer 87 -->
-<!-- 88 --> <!-- Line spacer 88 -->
-<!-- 89 --> <!-- Line spacer 89 -->
-<!-- 90 --> <!-- Line spacer 90 -->
-<!-- 91 --> <!-- Line spacer 91 -->
-<!-- 92 --> <!-- Line spacer 92 -->
-<!-- 93 --> <!-- Line spacer 93 -->
-<!-- 94 --> <!-- Line spacer 94 -->
-<!-- 95 --> <!-- Line spacer 95 -->
-<!-- 96 --> <!-- Line spacer 96 -->
-<!-- 97 --> <!-- Line spacer 97 -->
-<!-- 98 --> <!-- Line spacer 98 -->
-<!-- 99 --> <!-- Line spacer 99 -->
-<!-- 100 --> <!-- Line spacer 100 -->
-<!-- 101 --> <!-- Line spacer 101 -->
-<!-- 102 --> <!-- Line spacer 102 -->
-<!-- 103 --> <!-- Line spacer 103 -->
-<!-- 104 --> <!-- Line spacer 104 -->
-<!-- 105 --> <!-- Line spacer 105 -->
-<!-- 106 --> <!-- Line spacer 106 -->
-<!-- 107 --> <!-- Line spacer 107 -->
-<!-- 108 --> <!-- Line spacer 108 -->
-<!-- 109 --> <!-- Line spacer 109 -->
-<!-- 110 --> <!-- Line spacer 110 -->
-<!-- 111 --> <!-- Line spacer 111 -->
-<!-- 112 --> <!-- Line spacer 112 -->
-<!-- 113 --> <!-- Line spacer 113 -->
-<!-- 114 --> <!-- Line spacer 114 -->
-<!-- 115 --> <!-- Line spacer 115 -->
-<!-- 116 --> <!-- Line spacer 116 -->
-<!-- 117 --> <!-- Line spacer 117 -->
-<!-- 118 --> <!-- Line spacer 118 -->
-<!-- 119 --> <!-- Line spacer 119 -->
-<!-- 120 --> <!-- Line spacer 120 -->
-<!-- 121 --> <!-- Line spacer 121 -->
-<!-- 122 --> <!-- Line spacer 122 -->
-<!-- 123 --> <!-- Line spacer 123 -->
-<!-- 124 --> <!-- Line spacer 124 -->
-<!-- 125 --> <!-- Line spacer 125 -->
-<!-- 126 --> <!-- Line spacer 126 -->
-<!-- 127 --> <!-- Line spacer 127 -->
-<!-- 128 --> <!-- Line spacer 128 -->
-<!-- 129 --> <!-- Line spacer 129 -->
-<!-- 130 --> <!-- Line spacer 130 -->
-<!-- 131 --> <!-- Line spacer 131 -->
-<!-- 132 --> <!-- Line spacer 132 -->
-<!-- 133 --> <!-- Line spacer 133 -->
-<!-- 134 --> <!-- Line spacer 134 -->
-<!-- 135 --> <!-- Line spacer 135 -->
-<!-- 136 --> <!-- Line spacer 136 -->
-<!-- 137 --> <!-- Line spacer 137 -->
-<!-- 138 --> <!-- Line spacer 138 -->
-<!-- 139 --> <!-- Line spacer 139 -->
-<!-- 140 --> <!-- Line spacer 140 -->
-<!-- 141 --> <!-- Line spacer 141 -->
-<!-- 142 --> <!-- Line spacer 142 -->
-<!-- 143 --> <!-- Line syntax verified -->
-<!-- 144 --> <!-- Ready for production -->
-<!-- 145 --> <!-- Netlify Live Link Configured -->
-<!-- 146 --> <!-- GitHub Username: arkadas2026 -->
-<!-- 147 --> <!-- Repository: portfolio1234 -->
-<!-- 148 --> <!-- Designed for Abdulmalik -->
-<!-- 149 --> <!-- Enjoy your amazing portfolio profile! -->
-<!-- 150 --> <p align="center"><i>⭐ Star this repo if you like it!</i></p>
+<!-- ================================================= -->
+<!-- 🚀 ULTIMATE GITHUB PROFILE README (EXACTLY 300 LINES) -->
+<!-- ================================================= -->
+<div align="center">
+
+  <!-- Неоновый баннер -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,11,20,30,40&height=220&section=header&text=Abdulmalik%20•%20Web%20Developer&fontSize=35&fontColor=00ffcc&fontAlignY=38&animation=fadeIn&fontFamily=Segoe%20UI&stroke=00ffcc&strokeWidth=1" width="100%" />
+
+  <h3>✨ Привет! Я начинающий веб-разработчик и создатель цифровых интерфейсов ✨</h3>
+  
+  <p>
+    <code>HTML5</code> • <code>CSS3 / Flexbox</code> • <code>JavaScript</code> • <code>Bootstrap</code> • <code>Git & GitHub</code>
+  </p>
+
+  <!-- Социальные сети -->
+  <p>
+    <a href="https://github.com/Abdulmalik1">
+      <img src="https://img.shields.io/badge/GitHub-Profile-00ffcc?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    </a>
+    <a href="https://t.me/">
+      <img src="https://img.shields.io/badge/Telegram-Chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:example@email.com">
+      <img src="https://img.shields.io/badge/Email-Contact-ff007f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 Обо мне и моих навыках
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Технологический стек</h3>
+      <ul>
+        <li><strong>Frontend:</strong> Semantic HTML5, CSS3, Flexbox, Grid, Bootstrap</li>
+        <li><strong>Инструменты:</strong> Visual Studio Code, Git, GitHub Pages, Tilda</li>
+        <li><strong>В разработке:</strong> Интерактивные анимации, адаптивная верстка</li>
+        <li><strong>Цель:</strong> Создавать быстрые, красивые и удобные web-приложения</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Текущие цели на 2026</h3>
+      <ul>
+        <li>⚡ Освоение продвинутых паттернов JavaScript</li>
+        <li>🎨 Создание уникальных UI/UX интерфейсов</li>
+        <li>🚀 Успешная защита проектов на Demo Day</li>
+        <li>🌟 Развитие портфолио открытого кода</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Подробный инструментарий и навыки
+
+<div align="center">
+
+| Категория | Технологии / Инструменты | Уровень / Статус |
+| :--- | :--- | :--- |
+| **Языки разметки** | HTML5, Semantic Tags | Продвинутый |
+| **Стилизация** | CSS3, Flexbox, Grid, Bootstrap | Уверенный |
+| **Системы контроля** | Git, GitHub, GitHub Pages | Практик |
+| **Редакторы кода** | Visual Studio Code, Tilda | Ежедневно |
+
+</div>
+
+---
+
+### ⌨️ Любимые команды Git в разработке
+
+```bash
+# Инициализация и клонирование репозитория
+git init
+git clone [https://github.com/Abdulmalik1/repository.git](https://github.com/Abdulmalik1/repository.git)
+
+# Проверка статуса и добавление файлов
+git status
+git add .
+
+# Фиксация изменений и отправка на сервер
+git commit -m "feat: complete layout update and responsive design"
+git push origin main
